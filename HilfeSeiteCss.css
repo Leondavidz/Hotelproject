@@ -1,0 +1,7 @@
+*{
+    text-align: center;
+}
+
+ol li,ul,li{
+    list-style-position:inside;
+  }
